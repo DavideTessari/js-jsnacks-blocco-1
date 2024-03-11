@@ -2,8 +2,9 @@
 
 // Calcola la somma dei primi 10 numeri.
 let somma = 0;
-for (let i = 1; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
     somma += i;
+    console.log(i)
 }
 
 // Calcola la media dei primi 10 numeri.
