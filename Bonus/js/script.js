@@ -7,4 +7,5 @@ let numbers = [5, 12, 3, 8, 15, 7, 10, 2, 9, 6];
 let biggerNumber = Math.max(...numbers);
 
 // Stampare il numero più grande in console.
-console.log("Il numero più grande nell'array è:", biggerNumber);
+alert("Il numero più grande nell'array è: " + biggerNumber);
+
